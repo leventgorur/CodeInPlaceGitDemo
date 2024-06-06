@@ -1,0 +1,7 @@
+When you publish a solution, it will tell you that "You don't have permissions to push to "" Github." ....
+.
+
+
+https://stackoverflow.com/questions/68170849/i-get-you-dont-have-permissions-to-push-username-repository-on-github
+
+Removing Github credentials from Windos Credentials manager helps.12
