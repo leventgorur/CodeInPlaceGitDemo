@@ -9,6 +9,8 @@ def do_some_math():
     for i in numbers:
         print(math.factorial(i))
 
+    print(math.factorial(0))
+    print(math.factorial(3))
     print(math.pi)
     print(math.pi * 2)
 
