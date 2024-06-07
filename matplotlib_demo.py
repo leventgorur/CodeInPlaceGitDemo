@@ -1,4 +1,4 @@
-inport matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 def make_a_graph():
     nums = []
