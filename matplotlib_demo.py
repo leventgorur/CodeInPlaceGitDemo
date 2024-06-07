@@ -13,10 +13,11 @@ def make_a_graph():
     plt.plot(nums, squares)
     plt.plot(nums, doubles)
     plt.legend(['y = x^2', 'y = 2x'])
-    #plt.show()
-    plt.savefig('my_first_graph.png')
+    plt.show()
+    #plt.savefig('my_first_graph.png')
 
 make_a_graph()
 
 #python3 -m pip install matplotlib
-                
+# pypi.org
+# docs.python.org                
